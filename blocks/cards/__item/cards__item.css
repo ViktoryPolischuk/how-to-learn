@@ -1,0 +1,6 @@
+.cards__item {
+  flex-direction: row;
+  width: 240px;
+  list-style: none;
+  text-align: center;
+}
